@@ -1,0 +1,57 @@
+Collection
+->ArrayList and LinkedList -> Internal working
+  -> sorted/unsorted array
+     -> insertion/deletion -> begin, mid , delete
+     -> search 
+->HashMap internal working
+->TreeSet Internal Working
+->Balanced Binary Tree
+->Logical code on arrays
+
+1.Data Structure & problem statement(Sorting,Linked List,Doubly linked list,time/space complexity,BT,BST) -> High level
+2.Java Oops,Collection,String,Exception,Serialization,Garbage Collection,M/m Management
+3.Multithreading/Java 8
+4.Spring MVC/Hibernate
+5.Spring Boot/Microservices
+
+
+DS -> GeeksforGeeks
+Spring Security -> javinuse
+
+resillience4j.readme.io/docs/circuitbreaker
+
+
+String -> immutable -> final
+https://www.journaldev.com/129/how-to-create-immutable-class-in-java
+https://java2blog.com/java-interview-questions-for-5-years-experience/
+XX:NewRatio=1  -> divide young genration and old generation with 50%-50% occupancy
+
+concurrency
+parallalism
+synchonized
+
+
+Serialization : https://www.geeksforgeeks.org/object-serialization-inheritance-java
+              : https://javarevisited.blogspot.com/2011/04/top-10-java-serialization-interview.html#axzz7RGYcwP4n
+              : https://dzone.com/articles/what-is-serialization-everything-about-java-seria
+			  : https://java2blog.com/java-serialization-interview-questions-and-answers/
+			  
+Serialization in java
+Java Serialization interview questions and answers
+->Super class serializable,subclass not serializable
+->Super class not serializable,Subclass serializable
+->want to surpressed serializable from subclass
+serialversionuid in java serialization
+externalizable in java
+Transient keyword in java
+Difference between Serializable and Externalizable in Java
+Externalizable-> Marshalling and UnMarshalling
+
+InvalidClassException -> serialized(absences of serialversionUId) -> add/remove field methods -> deserialized
+NotSerializationException -> serialized class contains non serialized object
+
+
+Cloning     : https://www.programmingmitra.com/2019/08/how-to-deep-clone-an-object-using-java-in-memory-serialization.html
+            : https://www.programmingmitra.com/2016/11/Java-Cloning-Types-of-Cloning-Shallow-Deep-in-Details-with-Example.html
+			: https://www.programmingmitra.com/2017/01/Java-cloning-copy-constructor-versus-Object-clone-or-cloning.html
+            : https://www.programmingmitra.com/2017/01/java-cloning-why-copy-constructors-are-not-sufficient-or-good.html
